@@ -1,5 +1,5 @@
 # Banking-Analytics-Dashboard---Power-BI
-nteractive banking analytics and customer intelligence dashboard built with Microsoft Power BI.
+interactive banking analytics and customer intelligence dashboard built with Microsoft Power BI.
 
 An interactive Power BI dashboard designed to analyze banking customers, accounts, transactions, loans, and card portfolios through business-focused KPIs and visualizations.
 
